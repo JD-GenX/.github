@@ -1,5 +1,5 @@
 ## Introduction
 This is the homepage of JD-GenX Team.
 
-## Contact Us
+## We are hiring
 email: zhangzheng11@jd.com
